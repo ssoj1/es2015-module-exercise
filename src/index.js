@@ -1,5 +1,5 @@
 import { choice, remove } from "./helpers";
-import { FRUITS } from "./foods";
+import FRUITS from "./foods";
 
 let randomFruit = choice(FRUITS);
 

@@ -4,4 +4,4 @@ const FRUITS = [
     "🍏", "🍐", "🍒", "🍓", "🥝", "🍅", "🥑",
   ];
 
-  export { FRUITS };
+  export  default FRUITS;
